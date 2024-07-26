@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Delete_Backups_Bonus_Lesson - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>Delete_Backups_Bonus_Lesson\Delete_Backups_Bonus_Lesson.dll</Assembly>
+    <FullClassName>Delete_Backups_Bonus_Lesson.Command1</FullClassName>
+    <ClientId>0997406d-0d4e-4c6f-8272-06a0b0fe5671</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Delete_Backups_Bonus_Lesson - Command 2</Text>
+    <Description>Some description</Description>
+    <Assembly>Delete_Backups_Bonus_Lesson\Delete_Backups_Bonus_Lesson.dll</Assembly>
+    <FullClassName>Delete_Backups_Bonus_Lesson.Command2</FullClassName>
+    <ClientId>b28b4be6-65f3-4150-8d09-2a3532c3eeb9</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>Delete_Backups_Bonus_Lesson - cmdDeleteBackups</Text>
+		<Description>Some description</Description>
+		<Assembly>Delete_Backups_Bonus_Lesson\Delete_Backups_Bonus_Lesson.dll</Assembly>
+		<FullClassName>Delete_Backups_Bonus_Lesson.cmdDeleteBackups</FullClassName>
+		<ClientId>1C50A8F2-35A0-491B-9B50-959FE23145E0</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>	
+  <AddIn Type="Application">
+    <Name>Delete_Backups_Bonus_Lesson</Name>
+    <Assembly>Delete_Backups_Bonus_Lesson\Delete_Backups_Bonus_Lesson.dll</Assembly>
+    <FullClassName>Delete_Backups_Bonus_Lesson.App</FullClassName>
+    <ClientId>c056ecf5-5361-409d-bfe9-99f60ed7b297</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
